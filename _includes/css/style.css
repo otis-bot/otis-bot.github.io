@@ -1,3 +1,4 @@
+
 /*	################################################################
 
 	Author: Carlos Alvarez
@@ -219,7 +220,7 @@ a:focus {
 	background-color: {{ site.colors.primary }};
 	min-height: 0px;
 	padding-top: 100px;
-	padding-bottom: 50px;
+	padding-bottom: 20px;
 	text-align: center;
 }
 
@@ -239,8 +240,8 @@ a:focus {
 
 /* Services Wrap */
 #service {
-	margin-top: 0px;
-	margin-bottom: 0px;
+	margin-top: 50px;
+	margin-bottom: 20px;
 }
 
 #service i {
@@ -385,7 +386,7 @@ a:focus {
 /* General Tweaks */
 
 #blue {
-	background: {{ site.colors.primary }};
+	background: {{ site.colors.secondary }};
 	margin-top: 60px;
 	margin-bottom: 60px;
 	padding-top: 25px;
