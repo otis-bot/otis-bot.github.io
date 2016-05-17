@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Solid. A Bootstrap theme for Jekyll.
-============
 ![Screenshot](https://st4ple.github.io/solid-jekyll/assets/img/browser.png)
 
 This is a [Jekyll](http://jekyllrb.com/) port of the [Solid theme](http://www.blacktie.co/2014/05/solid-multipurpose-theme/) by [blacktie.co](http://www.blacktie.co/). Visit the [live demo](https://st4ple.github.io/solid-jekyll/) for a preview. 
@@ -73,34 +71,6 @@ categories:
 ####Can I use this theme for my website?
 Of course you can!
 ```
-####Publish
-To publish with [GitHub Pages](https://pages.github.com/), simply create a branch called `gh-pages`in your repository. GitHub will build your site automatically and publish it at `http://yourusername.github.io/repositoryname/`.  
-If there are problems with loading assets like CSS files and images, make sure that the `baseurl` in the `_config.yml`is set correctly (it should say `/repositoryname`).
 
-If you want to host your website somewhere else than GitHub (or just would like to customize and build your site locally), please check out the [Jekyll documentation](http://jekyllrb.com/). 
-=======
-Installing and configuring a Web Development environment on a new computer is a lot of work, even for experienced web developers.
 
-To make things simple for you and also give you real and powerful tools (rather than dummed down installation versions, that fall apart as soon as you branch out on your own) we're going to use a very popular and powerful development environment called vagrant.
 
-## [Vagrant for our In-Person Workshops](in-person.md)
-## [Vagrant for our Virtual and Online Workshops](online.md)
-
-For details about how to use vagrant see our [Vagrant Introduction Guide](http://www.thefirehoseproject.com/cheat-sheets/vagrant-intro)# otis-bot.github.io
-# otis-bot.github.io
-# otis-bot.github.io
-# otis-bot.github.io
->>>>>>> 76ff0ab94de87e8464554f69f5f754fc601c4e33
-Installing and configuring a Web Development environment on a new computer is a lot of work, even for experienced web developers.
-
-To make things simple for you and also give you real and powerful tools (rather than dummed down installation versions, that fall apart as soon as you branch out on your own) we're going to use a very popular and powerful development environment called vagrant.
-
-Vagrant for our In-Person Workshops
-
-Vagrant for our Virtual and Online Workshops
-
-For details about how to use vagrant see our Vagrant Introduction Guide# otis-bot.github.io
-
-otis-bot.github.io
-otis-bot.github.io
-otis-bot.github.io
